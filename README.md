@@ -63,18 +63,18 @@ Copyright (C) 2011-2019, Al Newkirk, et al.
 
 This is free software; you can redistribute it and/or modify it under the terms
 of the The Apache License, Version 2.0, as elucidated in the ["license
-file"](https://github.com/iamalnewkirk/zing::encoder::json/blob/master/LICENSE).
+file"](https://github.com/iamalnewkirk/zing-encoder-json/blob/master/LICENSE).
 
 # PROJECT
 
-[Wiki](https://github.com/iamalnewkirk/zing::encoder::json/wiki)
+[Wiki](https://github.com/iamalnewkirk/zing-encoder-json/wiki)
 
-[Project](https://github.com/iamalnewkirk/zing::encoder::json)
+[Project](https://github.com/iamalnewkirk/zing-encoder-json)
 
-[Initiatives](https://github.com/iamalnewkirk/zing::encoder::json/projects)
+[Initiatives](https://github.com/iamalnewkirk/zing-encoder-json/projects)
 
-[Milestones](https://github.com/iamalnewkirk/zing::encoder::json/milestones)
+[Milestones](https://github.com/iamalnewkirk/zing-encoder-json/milestones)
 
-[Contributing](https://github.com/iamalnewkirk/zing::encoder::json/blob/master/CONTRIBUTE.md)
+[Contributing](https://github.com/iamalnewkirk/zing-encoder-json/blob/master/CONTRIBUTE.md)
 
-[Issues](https://github.com/iamalnewkirk/zing::encoder::json/issues)
+[Issues](https://github.com/iamalnewkirk/zing-encoder-json/issues)
